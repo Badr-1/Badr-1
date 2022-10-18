@@ -20,18 +20,15 @@
 </div>
 
 
-<div align="center">
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badr-1&langs_count=3&theme=github_dark&hide_border=true" alt="Badr-1" />
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Badr-1&show_icons=true&theme=github_dark&hide_border=true" alt="Badr-1" />
-</div>
+### 🌟 Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Badr-1&theme=dark)](https://github.com/Badr-1)
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Badr&theme=github_dark&hide_border=true&v=2" alt="Badr" /></p>
-</div>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Badr-1&theme=github-dark-blue&hide_border=true" alt="Badr-1" /></p>
-</div>
+### 📈 Stats:
+[![Badr-1's github stats](https://github-readme-stats.vercel.app/api?username=Badr-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Badr-1?tab=repositories)
+  
+### 🏆 Github Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Badr-1&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Badr-1/Badr-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
