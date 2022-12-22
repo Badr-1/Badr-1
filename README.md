@@ -24,6 +24,8 @@
 
 <div align = "center">
 
+![Badr's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=badr-1&theme=github-compact&area=true&line=2596be&area_color=0096be&hide_border=true&point=0099be)
+
 ![](https://github-readme-stats.vercel.app/api?username=Badr-1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Badr-1&theme=github-dark-blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Badr-1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
