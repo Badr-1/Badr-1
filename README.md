@@ -3,7 +3,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
    [![wakatime](https://wakatime.com/badge/user/8d8ee4d4-0c24-4460-87bf-e47032e7caa3.svg)](https://wakatime.com/@8d8ee4d4-0c24-4460-87bf-e47032e7caa3)
+
+  <a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
+  
 </div>
+
 👋 Hi, I’m Badr mohamed<br>👀 I’m interested in mobile development<br>🌱 I’m currently learning kotlin<br>💞 I’m looking to collaborate on android projects, libraries, and open source projects<br>📫 How to reach me:
 
 
