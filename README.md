@@ -19,8 +19,7 @@
 ## 🌐 Socials & Learning Platforms:
 <div align = "center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/badr._mk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badr-mohamed-6b96461a3/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19939016) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@tsukihyouka) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC42Geml5J4IL2Lsv_ry71tg) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:badrmohamedashraf@gmail.com) [![Jetbrains Academy](https://img.shields.io/badge/Jetbrains_Academy-000.svg?logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/311839072)
-[![Microsoft Learn Profile](https://img.shields.io/badge/-Microsoft%20Learn-blue?style=flat&logo=Microsoft)](https://learn.microsoft.com/en-us/users/badrmohamed-5371/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badr-mohamed-6b96461a3/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@tsukihyouka) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC42Geml5J4IL2Lsv_ry71tg) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:badrmohamedashraf@gmail.com) [![Jetbrains Academy](https://img.shields.io/badge/Jetbrains_Academy-000.svg?logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/311839072)
 [![Google Developer Profile](https://img.shields.io/badge/-Google%20Developer-0F9D58?style=flat&logo=Google&logoColor=white&color=0F9D58)](https://developers.google.com/profile/u/badr_mohamed)
 
 
@@ -30,15 +29,13 @@
 # 💻 Tech Stack:
 <div align = "center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%32239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%32239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-purple.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Android-%32239120.svg?style=for-the-badge&logo=Android&logoColor=white)
 </div>
 
 # 📊 GitHub Stats:
 
 <div align = "center">
-
-![Badr's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=badr-1&theme=github-compact&area=true&line=2596be&area_color=0096be&hide_border=true&point=0099be)
 
 ![](https://github-readme-stats.vercel.app/api?username=Badr-1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Badr-1&theme=github-dark-blue&hide_border=true)<br/>
